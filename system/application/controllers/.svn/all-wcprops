@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers
+END
+news.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/news.php
+END
+newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/newsletter.php
+END
+callmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/callmail.php
+END
+newsletter_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/newsletter_new.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/admin.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/gogreen/trunk/system/application/controllers/home.php
+END

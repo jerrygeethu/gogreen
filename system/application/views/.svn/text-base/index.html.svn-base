@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Gogreen</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/bg.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style></head>
+<body>
+<a href="<?php echo $base;?>index.php/home/show/home.html"><div style="width:346px; height:381px; position:absolute; left: 516px; top: 281px; background-image:url(<?php echo $base;?>images/main.jpg)"></div></a>
+<br />
+<br />
+<br />
+</body>
+</html>

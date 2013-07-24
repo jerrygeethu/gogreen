@@ -1,0 +1,119 @@
+</head>
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+<!-- Top menu End here -->
+      <tr>
+        <td height="198" colspan="2" class="flash5">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+          <td colspan="3" align="left" class="head_txt">Photo Gallery</td>
+          </tr>
+          <tr>
+            <td width="89%" align="center" valign="top" class="main_matter" colspan="3">
+			<table width="75%" border="0" class="gallery" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="30" align="center" valign="middle" class="head_txt1" >Farm Gallery</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+                <div id="example">
+                 <a href="<?php echo $base; ?>images/gallery/large/img1.jpg" rel="lightbox[mando]" id="image1" ><img src="<?php echo $base; ?>images/gallery/img1.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image1">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img2.jpg" rel="lightbox[mando]" id="image2"><img src="<?php echo $base; ?>images/gallery/img2.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image2">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img3.jpg" rel="lightbox[mando]" id="image3"><img src="<?php echo $base; ?>images/gallery/img3.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image3">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img4.jpg" rel="lightbox[mando]" id="image4"><img src="<?php echo $base; ?>images/gallery/img4.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image4">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img5.jpg" rel="lightbox[mando]" id="image5"><img src="<?php echo $base; ?>images/gallery/img5.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image5">Farm Gallery</div>
+                  <br />
+                  <br />
+               	  <a href="<?php echo $base; ?>images/gallery/large/img6ab.jpg" rel="lightbox[mando]" id="image6"><img src="<?php echo $base; ?>images/gallery/img6ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image6">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img7ab.jpg" rel="lightbox[mando]" id="image7"><img src="<?php echo $base; ?>images/gallery/img7ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image7">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img8.jpg" rel="lightbox[mando]" id="image8"><img src="<?php echo $base; ?>images/gallery/img8.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image8">Farm Gallery</div>
+                     <a href="<?php echo $base; ?>images/gallery/large/img9.jpg" rel="lightbox[mando]" id="image9"><img src="<?php echo $base; ?>images/gallery/img9.jpg" border="0" alt="" /></a>
+                  <div class="lightboxDesc image9">Farm Gallery</div>
+                      
+                  <a href="<?php echo $base; ?>images/gallery/large/img10ab.jpg" rel="lightbox[mando]" id="image10"><img src="<?php echo $base; ?>images/gallery/img10ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image10">Farm Gallery</div>
+                       <br />
+                       <br />                                   
+                  		<a href="<?php echo $base; ?>images/gallery/large/img11ab.jpg" rel="lightbox[mando]" id="image11"><img src="<?php echo $base; ?>images/gallery/img11ab.jpg" border="0" alt="" /></a>
+                   		<div class="lightboxDesc image11">Farm Gallery</div>
+                            
+                        
+                       <a href="<?php echo $base; ?>images/gallery/large/img12.jpg" rel="lightbox[mando]" id="image12"><img src="<?php echo $base; ?>images/gallery/img12.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image12">Farm Gallery</div>                    
+                             
+                         
+                        <a href="<?php echo $base; ?>images/gallery/large/img13.jpg" rel="lightbox[mando]" id="image13"><img src="<?php echo $base; ?>images/gallery/img13.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image13">Farm Gallery</div>
+                            
+                        
+                        <a href="<?php echo $base; ?>images/gallery/large/img7ab.jpg" rel="lightbox[mando]" id="image14"><img src="<?php echo $base; ?>images/gallery/img7ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image14">Farm Gallery</div>
+                            
+                        
+                        <a href="<?php echo $base; ?>images/gallery/large/img8ab.jpg" rel="lightbox[mando]" id="image15"><img src="<?php echo $base; ?>images/gallery/img8ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image15">Farm Gallery</div>
+                           
+                        <br />
+                       <br />
+                        <a href="<?php echo $base; ?>images/gallery/large/img9ab.jpg" rel="lightbox[mando]" id="image16"><img src="<?php echo $base; ?>images/gallery/img9ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image16">Farm Gallery</div> 
+                             
+                         
+                         <a href="<?php echo $base; ?>images/gallery/large/img1ab.jpg" rel="lightbox[mando]" id="image17"><img src="<?php echo $base; ?>images/gallery/img1ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image17">Farm Gallery</div>
+                           
+                       
+                        <a href="<?php echo $base; ?>images/gallery/large/img11ab.jpg" rel="lightbox[mando]" id="image18"><img src="<?php echo $base; ?>images/gallery/img11ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image18">Farm Gallery</div> 
+                             
+                         
+                         <a href="<?php echo $base; ?>images/gallery/large/img3ab.jpg" rel="lightbox[mando]" id="image19"><img src="<?php echo $base; ?>images/gallery/img3ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image19">Farm Gallery</div>
+                           
+                       
+                        <a href="<?php echo $base; ?>images/gallery/large/img2ab.jpg" rel="lightbox[mando]" id="image20"><img src="<?php echo $base; ?>images/gallery/img2ab.jpg" border="0" alt="" /></a>
+                        <div class="lightboxDesc image20">Farm Gallery</div>
+                           
+                        
+                                         
+                        
+                        
+            <script type="text/javascript">
+					window.addEvent('domready',function(){
+						Lightbox.init({descriptions: '.lightboxDesc', showControls: true});
+					});
+		    </script>
+                </div></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          
+          <tr>
+            <td height="50" colspan="3" align="center" valign="top" >&nbsp;</td>
+          </tr>

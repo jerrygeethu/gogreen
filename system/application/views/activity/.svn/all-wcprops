@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity
+END
+actdetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/actdetails.php
+END
+addact.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/addact.php
+END
+actcontent.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/actcontent.php
+END
+editactivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/editactivity.php
+END
+listact.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/listact.php
+END
+activities.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/activity/activities.php
+END

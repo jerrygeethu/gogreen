@@ -1,0 +1,88 @@
+<!-- Header Start -->
+</head>
+<!-- Header End -->
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+	<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+	<!-- Top menu End here -->
+      <tr>
+        <td height="199" colspan="2" class="flash1">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="83%" align="left" class="head_txt">Welcome</td>
+            <td width="17%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="main_matter"><div align="left" style="width:95%">Farming is as old a profession as human civilization. Over  the centuries, its philosophy has changed, evolving along with Man’s march  ahead. From being a means for survival and livelihood, farming has now become an  avenue for secure investment.   <br />
+                <br />
+              When we Go Green, it’s a dream come true. The dream of  turning the red of the Earth into the green of vegetation. <br />
+              <br />
+              Prime Move enters large scale farming with a whole new  approach. Surely, we are here to generate wealth. But profit is not the sole  goal for us. Ours is a long term approach, caring the land, water, vegetation,  people and revenue. <br />
+              <br />
+              We will be integrating the farms with our tourism operations  as well. Our travel venture elatrip.com will invite tourists to our farms, in  the coming months. <br />
+              <br />
+              Theni Farms is a realization of our vision, our experience.  Equipped with the new age know- how and  traditional expertise, we move ahead. <br />
+              <br />
+              <span class="head_txt">Latest News</span> <br />
+              <br />
+              </div>
+              <table width="98%" border="0" cellspacing="0" cellpadding="0"  class="tbl_border">
+                <tr>
+                  <td colspan="3" align="left" valign="top">
+				  <iframe    width="100%" frameborder="0" scrolling="no" src="<?php echo $base; ?>index.php/news/getlatestnews"></iframe></td>
+                </tr>
+            </table>
+			 <br />
+            <br />
+           <strong>Download Brochure</strong>&nbsp;&nbsp;
+		   <img src="<?php echo $base; ?>images/icon.jpg" border="0" align="absmiddle" alt="Download Brochure" width="19" height="28" />
+		   
+		   <br />&nbsp;<a href="<?php echo $base; ?>download/Gogreen.pdf" target="_blank">1. Go Green</a>
+		   <br />&nbsp;<a href="<?php echo $base; ?>download/Sahyafarms.pdf" target="_blank">2. Sahya Farms</a>
+		   
+		  <br />
+			
+			
+			</td>
+            <td width="17%" align="left" valign="top"><table width="100%" border="0" class="gallery" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="center" valign="middle" class="head_txt1" >Theni Farm Gallery</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+			<a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img1.jpg" border="0" alt="" /></a><br />
+			<br />
+
+		    <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img2.jpg" border="0" alt="" /></a><br />
+		    <br />
+
+	        <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img3.jpg" border="0" alt="" /></a><br />
+	        <br />
+          
+            <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img4.jpg" border="0" alt="" /></a><br />
+            <br />
+		
+		<script type="text/javascript">
+			window.addEvent('domready',function(){
+				Lightbox.init({descriptions: '.lightboxDesc', showControls: true});
+			});
+		</script>
+		</div></td>
+              </tr>
+             
+              <tr>
+                <td align="center" valign="middle" bgcolor="#635846">
+               <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img5.jpg" border="0" alt="" /></a><br />
+               <br /></td>
+              </tr>
+            </table></td>
+          </tr>
+<!-- Footer Start -->
+
+	
+<!-- Footer End -->

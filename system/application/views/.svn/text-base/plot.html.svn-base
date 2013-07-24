@@ -1,0 +1,160 @@
+<!-- Header Start -->
+</head>
+<script type="text/javascript" src="http://192.168.1.3/prime/newgogreen/js/jquery.js"></script>
+
+<script type="text/javascript" src="http://192.168.1.3/prime/newgogreen/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="http://192.168.1.3/prime/newgogreen/js/jquery.cycle.all.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+$('#link,#tb').cycle(
+{
+fx: 'scrollDown',
+timeout:5000 // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+});
+});
+</script>
+
+<!-- Header End -->
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+	<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+	<!-- Top menu End here -->
+      <tr>
+        <td height="199" colspan="2" class="flash1">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="83%" align="left" class="head_txt"><p><strong>  Go green with Farming</strong></p></td>
+            
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="main_matter"><div align="left" style="width:95%"> GO GREEN...The first step we take in accomplishing our dream of making the world a greener place to live in. It is a               whole new idea of generating prosperity through taking up agriculture in its right perspective.<br />
+               
+               The design and specifications of every farm-plot keeps an eye on the future while taking into consideration the needs of past. Each of the 10-acre plots boasts of fertile soil that would offer any                cultivator high yields in crops.<br>
+              
+              <p class="head_txt"> Specialty of plot<br />
+              </p>
+                 Out of 300 acres of cultivated land area, each 10-acre has bio fencing with Choukka, 500 numbers of Teak plants and a mixture of high yielding varieties of Mango, Supporta, Coconut and Gooseberry. National Horticultural Board and Tamil Nadu Agricultural University guide the project with long term experience and expertise in farming.  
+                   <p class="head_txt">  More Facilities   </p>
+                    Each 10-acre plot has additional facilities. Independent road access, around 500 square feet farm house, electrical connection, telephone connection, 100% drip irrigation and supervision by                    experienced staff are a few of the highlights. <br/>
+                   <br/> The premises of Go Green farms offer a swimming pool where one can enjoy swimming and refreshing bath, kids playground for kids to spend quality time, recreational facilities and an amusement                     park to keep one entertained by night and day, an organic kitchen garden and horticultural garden from where first lessons of cultivation can be picked up, a vermi compost pit and a small dairy                     farm. Guests can avail the 5 bed room guest house facility as well.
+                <p class="head_txt">  Scope for tourism in the area :  </p>
+                  A great location, that serves as a gateway to major tourist destinations around Theni like Kodaikkanal, Madurai, Thekkadey and Munnar can make `Go Green’ a potential farm tourism spot.                          Remember Go Green farms will always gift you more than what you ask for!
+                
+                
+            </div><br/>
+            
+            
+            
+            
+             
+      <table width="60%" height="5%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="83%" align="left" class="head_txt">Enquiry form </td>
+          </tr></table> 
+            <div style="margin-left:70px;font-family:arial;font-size:13px;color:#82cb04;font-weight:bold;">
+            <?php 
+			if(!empty($status))
+			{
+							if($status=="true")
+			{ echo "Your enquiry successfully send.We will contact you soon";
+		      }
+			  else
+		     {
+			  echo "Sending failed";
+		      }
+			  } ?>
+              </div>     
+			<div style="border:#59b500 solid 1px; width:90%;">
+			
+			<form action="<?php echo $base;?>index.php/home/mail" method="post">
+			<table width="80%" height="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:16px;margin-bottom:14px;">
+            <!--<div align="left" style=" width:40%; margin-left:520px; margin-top:1px;"><b> Contact us: </b> 9048990544,9048990523  <br/> -->
+              <tr>
+               <td align="left" valign="top" class="main_matter" width="15%" > Your name:	
+               <td align="left" valign="top">	
+				 <label>
+				 <input type="text" name="name" id="name" size="30" />
+				 </label> </td></tr>
+                
+                 <tr>
+                 	<td align="left"  class="main_matter" width="15%" > Your E-mail:
+                    <td align="left" valign="top">
+				 <label>
+				 <input type="text" name="email" id="email" size="30"  />
+				 </label></td></tr>
+                    
+                    <tr>
+                 	<td align="left"  class="main_matter" width="20%" >Your Message:
+                    <td align="left" valign="top">
+				 <label>
+                  <textarea name="message"  id="message"  rows="6" cols="24" ></textarea>
+                 
+				 </label></td></tr> 
+                 
+                 <tr>
+                  <td align="right" valign="middle">&nbsp;</td>
+                  <td align="left" valign="middle">
+                        <input type="submit" name="button" id="button" value="Submit" />
+                   </td>
+              </tr><!--</div>-->
+                    
+                  </table>
+				  </form>
+				  
+				  </div>                  
+                  
+                  
+            <br />
+           <strong>Download Brochure</strong>&nbsp;&nbsp;
+		   <img src="<?php echo $base; ?>images/icon.jpg" border="0" align="absmiddle" alt="Download Brochure" width="19" height="28" />
+		   
+		   <br />&nbsp;<a href="<?php echo $base; ?>download/Gogreen.pdf" target="_blank">1. Go Green</a>
+		   <br />&nbsp;<a href="<?php echo $base; ?>download/Sahyafarms.pdf" target="_blank">2. Sahya Farms</a>
+		   
+		  <br />
+			
+			
+			</td>
+            <td width="17%" align="left" valign="top"><table width="100%" border="0" class="gallery" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="center" valign="middle" class="head_txt1" >Theni Farm Gallery</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+			<a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img1.jpg" border="0" alt="" /></a><br />
+			<br />
+
+		    <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img2.jpg" border="0" alt="" /></a><br />
+		    <br />
+
+	        <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img3.jpg" border="0" alt="" /></a><br />
+	        <br />
+          
+            <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img4.jpg" border="0" alt="" /></a><br />
+            <br />
+		
+		<script type="text/javascript">
+			window.addEvent('domready',function(){
+				Lightbox.init({descriptions: '.lightboxDesc', showControls: true});
+			});
+		</script>
+		</div></td>
+              </tr>
+             
+              <tr>
+                <td align="center" valign="middle" bgcolor="#635846">
+               <a href="<?php echo $base; ?>index.php/home/view/gallery.html"><img src="<?php echo $base; ?>images/gallery/img5.jpg" border="0" alt="" /></a><br />
+               <br /></td>
+              </tr>
+            </table></td>
+          </tr>
+<!-- Footer Start -->
+
+	
+<!-- Footer End -->

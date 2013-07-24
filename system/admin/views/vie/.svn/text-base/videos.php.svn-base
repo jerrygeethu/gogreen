@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> Go Green - Add Videos</title>
+<link rel="stylesheet" href="css/style.css" type="text/css"  />
+
+<script type="text/javascript" src="js/jquery-latest.js"></script> 
+ 
+
+ 
+<!-- Import The jQuery Script --> 
+<script type="text/javascript" src="js/jMenu.js"></script> 
+
+
+<style type="text/css">
+<!--
+.style1 {font-style: italic}
+.style2 {
+	color: #65B11A;
+	font-style: italic;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<!-- header Section Start -->
+<div class="outer" align="center" ><!--Outer div Open -->
+<div class="inner" align="left" ><!--inner div Open -->
+
+<div class="logo"><a href="index.html"><img src="images/gogreenLogo.png" alt="logo" border="0" /></a></div>
+<div class="toplinks">
+	<a href="index1.html">home </a>&nbsp; | &nbsp;<a href="inbox.html"> mail</a>&nbsp;  | &nbsp;<a href="ManageMember.html"> management</a> &nbsp;  |  &nbsp;<a href="List_Photos.html">gallery</a></div>
+
+<div class="cl"></div>
+
+<!--[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[-->
+
+	<div class="adminlog">
+		<div class="admin_img"> <img src="images/avatar.png" alt="avatar" width="80" height="90" /> </div>
+
+	  <div class="admin_banner" > 
+		<div class="admin_banner1" > &nbsp;Admin</div>
+             <div align="right" class="Admin_Edit" >
+   				<img src="images/greenArrow.png" width="10" height="20" /> <a href="setttings.html">Edit Details</a>&nbsp;   		  </div>
+            <div align="right" class="admin_logout" > 
+    			<img src="images/redArrow.png" width="10" height="20" /> <a href="#">Sign Out</a>&nbsp;    		</div>
+   	  </div>
+	</div>
+    
+    
+    <div class="details_banner" >
+	<div class="details_banner1" >
+	  <div style="color:#FFFFFF; padding-left:25px; font-size:18px; height:88px;" class="details_head">
+	    <p>&nbsp; </p>
+	    <p>&nbsp;</p>
+	    <p>&nbsp;</p>
+	    <p><img src="images/mail.png" alt="mail" align="baseline" /> Add Videos</p>
+	  </div>
+
+</div>
+</div>
+ 
+<div class="cl"></div>  
+<!--[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[-->
+
+
+
+	<div class="cl"></div>
+
+
+</div>
+</div><!--inner div Close -->
+</div><!--Outer div Close -->
+<!-- header Section Close -->
+
+
+
+
+<!-- Content Section Open -->
+<div class="outer1" align="center" ><!--Outer div Open -->
+<div class="inner contentbox1" align="left"><!--inner div Open -->
+
+<div align="center" class="contentbanner" ><!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+
+<div align="left" style="height:350px;">
+
+<div  class="accordian">
+	<ul>
+		<li style=" color:#FFFFFF;"><img src="images/mail.png" alt="mail" align="absmiddle" /> Mail</li>
+		<li style=" padding-left:10px;">
+        	<img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a style="font-size:12px;" class="bl" href="compose_mail.html"> Compose Mail</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a style="font-size:12px;" class="bl" href="inbox.html"> Inbox</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a style="font-size:12px;" class="bl" href="sentmail.html"> Sent Mail</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a style="font-size:12px;" class="bl" href="drafts.html"> Draft</a><br  />
+		</li>
+	  	
+        <li><img src="images/members.png" alt="members" width="22" height="21" align="absmiddle" /> Member Details</li>
+		<li>
+        	<img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="memberList.html">
+            Manage Members</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="ManageMember.html">
+          Add Member</a>       	</li>
+	
+		<li style=" color:#FFFFFF;"><img src="images/project.png" alt="projects" width="22" height="23" align="absmiddle" /> Projects</li>
+		<li><img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Project_Details.html">
+        Manage Projects</a><br  />
+         <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Add_Project.html">
+         Add Projects</a>        <br />
+         <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Plot_Details.html"> Plot Details</a>
+         
+         </li>
+        
+        <li><img src="images/gallery.png" alt="news" width="22" height="23" align="absmiddle" /> News</li>
+		<li><img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="news.html"> Manage News</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Add_News.html"> Add News</a>            </li>
+        
+        <li style=" color:#FFFFFF;"><img src="images/activity.png" alt="activity" width="22" height="23" align="absmiddle" /> Activity Details</li>
+		<li>
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Work_History.html"> Work History</a> <br />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Crop_Details.html"> Crop Details</a><br />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="Risk_Management.html"> Risk Management</a>            </li>
+        
+        <li><img src="images/anouncement.png" alt="gallery" width="22" height="23" align="absmiddle" /> Gallery</li>
+		<li>
+        
+        <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="List_Photos.html"> Manage Photos</a><br  />
+            <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="List_Videos.html"> Manage Videos</a> <br />
+           <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /> <a class="bl" style="font-size:12px;" href="Add_Photos.html">Add Photos</a><br />
+           <img src="images/greenArrow.png" alt="arrow" width="10" height="20" /> <a class="bl" style="font-size:12px;" href="#">Add Videos</a><br />
+           
+        
+      <li style=" color:#FFFFFF;"><img src="images/settings.png" alt="settings" width="22" height="25" border="0" align="absmiddle" /> Settings</li> 
+      
+      <li><img src="images/greenArrow.png" alt="arrow" width="10" height="20" /><a class="bl" style="font-size:12px;" href="setttings.html"> Manage Accounts </a><br  />
+<br />
+            
+                      </li>
+  </ul>
+</div>
+</div>
+
+
+</div><!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+
+
+
+
+<div class="spdiv1"></div>
+<div class="contentarea1">
+
+<!--/////////////////////////////////////////////////////-->
+<div>
+
+<div style="height:350px;">
+ 
+
+<div style=" float:left; height:20px; width:10px;">  </div>
+<div style=" float:left;  height:360px; width:500px; font-size:12px;">
+
+
+
+
+<div style="height:10px;" class="cl">&nbsp;</div>
+
+	<div style=" float:left; width:120px; padding-top:2px;">
+		<span style="font-size:16px;">&nbsp;Video Name</span>
+  		<p><img src="images/img01.jpg" alt="project" width="108" height="81" /></p>
+        &nbsp;&nbsp;&nbsp;Upload Image >>
+  	</div>
+ 
+ 
+ 
+<div style="float:left;">    
+<div style=" float:left; width:10px; height:45px;"></div>
+
+<div style=" float:left; height:20px;  width:100px; padding-top:20px;">   File Name: </div>
+<div style=" float:left; height:20px;  width:250px; padding-top:20px;">    <input tabindex="1" style="width:250px;"  type="text" name="fn" id="fn1" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">   ID: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="2" style="width:250px; " type="text" name="fn" id="fn2" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">   Owner: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="3" style="width:250px; " type="text" name="fn" id="fn3" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">Status: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="4" style="width:250px; " type="text" name="fn" id="fn4" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">    Date: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="5" style="width:250px; " type="text" name="fn" id="fn5" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">Group: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="6" style="width:250px; " type="text" name="fn" id="fn6" />  </div>
+<div class="cl"></div>
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">Category: </div>
+<div style=" float:left; height:20px;  width:250px;">    <input tabindex="7" style="width:250px; " type="text" name="fn" id="fn6" />  </div>
+<div class="cl"></div>
+
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">Status: </div>
+<div style=" float:left; height:20px;  width:250px;">   <select name="proj" style="width:252px;">
+  <option>Status #1</option>
+  <option>Status #2</option>
+  <option>Status #3</option>
+  <option>Status #4</option>
+</select>  </div>
+<div class="cl"></div>
+
+
+
+
+<div style=" float:left; width:10px; height:25px;"></div>
+<div style=" float:left; height:20px;  width:100px;">Remarks:</div>
+<div style=" float:left; height:20px;  width:250px; padding-top:3px;">    <input tabindex="9" style="width:250px; height:100px; " type="text" name="fn" id="fn6" />  </div>
+<div class="cl"></div>
+
+
+
+</div>
+
+<div style="height:10px;" class="cl"></div>
+
+
+
+
+</div> 
+
+</div>
+</div>
+
+
+<div class="style2" style="float:left"></div>
+ 	<div align="right" style="padding-right:90px;"><a href="#"><img src="images/but_add.png" alt="save" width="80" height="22" border="0" /></a>&nbsp;<a href="#"><img src="images/but_save.png" alt="print" width="80" height="22" border="0" /></a></div>
+  
+</div>
+<!--/////////////////////////////////////////////////////////-->
+
+<div style=" float:left; width:10px; height:485px;"> </div>
+<div style=" float:left; width:170px; height:485px; border:1px solid #999999; padding-top:5px;" align="center">
+
+<div align="left" style="width:155px; height:25px; background-color:#999999; padding-left:5px; padding-top:1px; color:#FFFFFF;"><img src="images/anouncement.png" alt="anouncement" width="22" height="23" align="absmiddle" /> Anouncements</div>
+<div align="left" style="font-size:10px;">
+  <div align="left" style="padding:5px;"><br />
+  <strong>Heading</strong><br />
+content - content - content - content - content - content - <br />
+<span class="style1">	<a class="gl" href="#">Read More &gt;&gt;</a></span>
+<br />
+  <br />
+  <strong>Heading</strong><br />
+content - content - content - content - content - content - <br />
+<span class="style1"> <a class="gl" href="#">Read More &gt;&gt;</a></span><br />
+<br />
+<strong>Heading</strong><br />
+content - content - content - content - content - content - <br />
+<span class="style1"> <a class="gl" href="#">Read More &gt;&gt;</a><br />
+<br />
+</span></div>
+  </div>
+
+<div align="left" style="width:155px; height:25px; background-color:#999999; padding-left:5px; padding-top:1px; color:#FFFFFF;">
+<img src="images/gallery.png" alt="gallery" width="22" height="22" align="absmiddle" /> Gallery
+</div>
+
+<div align="left" style="padding:5px;">
+	<img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" /><img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" />
+    <img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" /><img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" />
+    <img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" /><img style="padding:3px;" src="images/img01.jpg" alt="img" width="70" height="59" />
+    
+    
+    </div>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- content Section Close -->
+
+
+
+<!-- Footer Section Open -->
+<div class="outer" align="center" ><!--Outer div Open -->
+<div align="right" class="inner footer1"  ><!--inner div Open -->
+<p>Copyright @ gogreenearth.in</p>
+
+
+
+</div>
+</div>
+<!-- footer Section Close -->
+
+
+
+
+</body>
+</html>

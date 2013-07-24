@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects
+END
+editproject.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/editproject.php
+END
+projectdetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/projectdetails.php
+END
+addproject.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/addproject.php
+END
+listproject.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/listproject.php
+END
+projectdet.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/projectdet.php
+END
+viewprojects.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/gogreen/trunk/system/application/views/projects/viewprojects.php
+END

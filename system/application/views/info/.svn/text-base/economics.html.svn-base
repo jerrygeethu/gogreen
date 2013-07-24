@@ -1,0 +1,40 @@
+</head>
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+<!-- Top menu End here -->
+      <tr>
+        <td height="198" colspan="2" class="flash3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="92%" align="left" class="head_txt">Economics </td>
+            <td width="8%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="main_matter">Cost per plot is Rs. 30 lakh. This covers all costs like  land value, planting, manuring and maintenance for the first three years. After  three years, a service charge will be applicable for the maintenance of the  farm. At present, it is fixed as 20% of the net income from the plot. The buyers  will also have the option to run the farm of their own after the initial three  year period.<br /><br />
+
+              The booking amount is 10% of the total coast. The first  installment to be given at the time of registration is 40% of the total amount.  The remaining 50% is to be given in installments in the next 24 months. (<a href="<?php echo $base; ?>images/theni_farms_new-1.jpg" target="_blank">Details  Here</a>)<br />
+              <br />
+
+              Revenue from the farm will start flowing in from the third  year on. At the end of ten years the net agricultural income is projected to be  90.22 lakh. This is subject to market fluctuations. (<a href="<?php echo $base; ?>images/theni_farms_new-3.jpg" target="_blank">Details Here</a>)
+              <br />
+              <br />
+              <span class="head_txt">Latest News</span> <br />
+              <br /> <table width="98%" border="0" cellspacing="0" cellpadding="0"  class="tbl_border">
+                <tr>
+                  <td colspan="3" align="left" valign="top">
+				  <iframe height="100px" width="100%" frameborder="0" scrolling="no" src="<?php echo $base; ?>index.php/news/getlatestnews"></iframe></td>
+                </tr>
+            </table></td>
+            <td width="8%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="30" align="center" valign="top" >&nbsp;</td>
+            <td align="center" valign="top" >&nbsp;</td>
+          </tr>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/gogreen/trunk/system/plugins
+END
+phpmailer_pi.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/gogreen/trunk/system/plugins/phpmailer_pi.php
+END
+captcha_pi.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/gogreen/trunk/system/plugins/captcha_pi.php
+END
+js_calendar_pi.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/gogreen/trunk/system/plugins/js_calendar_pi.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/gogreen/trunk/system/plugins/index.html
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/gogreen/trunk/system/plugins/class.smtp.php
+END

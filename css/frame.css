@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#2d2319;
+	margin:auto;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:12px;
+}
+a
+{
+	text-decoration:none;
+	color:#CCCCCC;
+}
+a:hover
+{
+	color:#00FF00;
+}
+
+
+.tbl_head
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:13px;
+	padding:5px;
+}
+.tbl_head a
+{
+	color:#FFFFFF;
+}
+.tbl_head a:hover
+{
+	color:#CCCCCC;
+	
+}
+
+.tbl_txt
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#6dae34;
+	font-size:11px;
+	padding:5px;
+}
+

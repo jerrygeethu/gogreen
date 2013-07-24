@@ -1,0 +1,44 @@
+</head>
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+<!-- Top menu End here -->
+      <tr>
+        <td height="198" colspan="2" class="flash4">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="92%" align="left" class="head_txt">Contact</td>
+            <td width="8%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="main_matter">
+            PRIME MOVE TECHNOLOGIES (P) LTD.<br />
+7/538 A, 156 – Mavelipuram Colony,<br />
+
+Kakkanad, Kochi – 30. Kerala, India.
+<br />
+Tel: +91 484 2426436 / 2426437 / 2426438,
+<br />
+E-mail: info@primemoveindia.com
+<br />
+              <br />
+              <span class="head_txt">Latest News</span> <br />
+              <br />
+              <table width="98%" border="0" cellspacing="0" cellpadding="0"  class="tbl_border">
+                <tr>
+                  <td colspan="3" align="left" valign="top">
+				  <iframe height="100px" width="100%" frameborder="0" scrolling="no" src="<?php echo $base; ?>index.php/news/getlatestnews"></iframe></td>
+                </tr>
+            </table></td>
+            <td width="8%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="30" align="center" valign="top" >&nbsp;</td>
+            <td align="center" valign="top" >&nbsp;</td>
+          </tr>

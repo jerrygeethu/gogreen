@@ -1,0 +1,138 @@
+<!-- Header Start -->
+</head>
+<!-- Header End -->
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="27" colspan="2" align="left" class="head">&nbsp;</td>
+      </tr>
+      <tr>
+       <td width="82" height="29" align="center" valign="middle" background="images/bg_img.jpg" style="background-repeat:no-repeat;"><a href="http://primemoveindia.com">Primemove </a></td>
+        <td width="921">
+        
+        <!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="/menu/includes/ie6.css" media="screen"/>
+	<![endif]-->
+          <ul id="MenuBar1" class="MenuBarHorizontal">
+            <li>
+              <div align="center" class="style1"><a href="home.html">Home</a> </div>
+            </li>
+            <li>
+              <div align="center"><a href="thenifarms.html" class="MenuBarItemSubmenu">Theni Farms</a>
+                  <ul>
+                    <li><a href="location.html">Location</a></li>
+                    <li><a href="infrastructure.html">Infrastructure</a></li>
+                    <li><a href="farm.html">Farm</a></li>
+                    <li><a href="economics.html">Economics </a>  </li>
+                    <li><a href="tourism.html">Tourism</a></li>
+                    <li><a href="ayurveda.html">Ayurveda</a></li>  
+                    <li><a href="management.html">Management</a></li>
+                  </ul>
+              </div>
+            </li>
+            <li>
+              <div align="center"><a href="about.html">About us</a> </div>
+            </li>
+            <li>
+              <div align="center"><a href="contact.html">Contact </a></div>
+            </li>
+            <li>
+              <div align="center"><a href="gallery.html">Gallery</a></div>
+            </li>
+            <li>
+              <div align="center"><a href="#">Sign In</a></div>
+            </li>
+          </ul>
+        <div align="left"></div> 
+         </td>
+      </tr>
+      <tr>
+        <td height="199" colspan="2" class="flash1">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="83%" align="left" class="head_txt">Welcome</td>
+            <td width="17%" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="main_matter"><div align="left" style="width:95%">Farming is as old a profession as human civilization. Over  the centuries, its philosophy has changed, evolving along with Man’s march  ahead. From being a means for survival and livelihood, farming has now become an  avenue for secure investment.   <br />
+                <br />
+              When we Go Green, it’s a dream come true. The dream of  turning the red of the Earth into the green of vegetation. <br />
+              <br />
+              Prime Move enters large scale farming with a whole new  approach. Surely, we are here to generate wealth. But profit is not the sole  goal for us. Ours is a long term approach, caring the land, water, vegetation,  people and revenue. <br />
+              <br />
+              We will be integrating the farms with our tourism operations  as well. Our travel venture elatrip.com will invite tourists to our farms, in  the coming months. <br />
+              <br />
+              Theni Farms is a realization of our vision, our experience.  Equipped with the new age know- how and  traditional expertise, we move ahead. <br />
+              <br />
+              <span class="head_txt">Latest News</span> <br />
+              <br />
+              </div>
+              <table width="98%" border="0" cellspacing="0" cellpadding="0"  class="tbl_border">
+                <tr>
+                  <td colspan="3" align="left" valign="top"><iframe height="100px" width="100%" frameborder="0" scrolling="no" src="latestnews.html"></iframe></td>
+                </tr>
+            </table></td>
+            <td width="17%" align="left" valign="top"><table width="100%" border="0" class="gallery" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="center" valign="middle" class="head_txt1" >Theni Farm Gallery</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle">
+			<a href="gallery.html"><img src="images/gallery/img1.jpg" border="0" alt="" /></a><br />
+			<br />
+
+		    <a href="gallery.html"><img src="images/gallery/img2.jpg" border="0" alt="" /></a><br />
+		    <br />
+
+	        <a href="gallery.html"><img src="images/gallery/img3.jpg" border="0" alt="" /></a><br />
+	        <br />
+          
+            <a href="gallery.html"><img src="images/gallery/img4.jpg" border="0" alt="" /></a><br />
+            <br />
+		
+		<script type="text/javascript">
+			window.addEvent('domready',function(){
+				Lightbox.init({descriptions: '.lightboxDesc', showControls: true});
+			});
+		</script>
+		</div></td>
+              </tr>
+             
+              <tr>
+                <td align="center" valign="middle" bgcolor="#635846">
+               <a href="gallery.html"><img src="images/gallery/img5.jpg" border="0" alt="" /></a><br />
+               <br /></td>
+              </tr>
+            </table></td>
+          </tr>
+          
+          <tr>
+            <td align="center" valign="top" class="footer_link"><a href="home.html">Home</a> | <a href="thenifarms.html">Theni Farms</a> |  <a href="about.html">About us</a> | <a href="contact.html">Contact</a> | <a href="gallery.html">Photogallery</a> |  <a href="#">Sign In</a><br /></td>
+            <td align="center" valign="top" class="footer_link">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="footer">Prime Move Technologies (P) Ltd.© 2009 , All Rights Reserved. </td>
+            <td align="center" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top">&nbsp;</td>
+            <td align="center" valign="top">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" ><a href="http://www.primemoveindia.com"></a></td>
+      </tr>
+    </table>
+  <script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+    </script>
+</body>
+</center>
+</html>

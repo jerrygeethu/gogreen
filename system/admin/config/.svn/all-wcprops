@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/87/gogreen/trunk/system/admin/config
+END
+doctypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/doctypes.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/mimes.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/constants.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/user_agents.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/routes.php
+END
+hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/hooks.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/87/gogreen/trunk/system/admin/config/database.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/index.html
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/87/gogreen/trunk/system/admin/config/config.php
+END
+smileys.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/smileys.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/gogreen/trunk/system/admin/config/autoload.php
+END

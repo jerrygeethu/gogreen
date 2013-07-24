@@ -1,0 +1,56 @@
+</head>
+<center>
+<body>
+    <table width="1003" border="0" cellspacing="0" cellpadding="0">
+	<!-- Top menu start here -->
+	<?php echo get_menu($base); ?>
+	<!-- Top menu End here -->
+      <tr>
+        <td height="198" colspan="2" class="flash5">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="border_cell">
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+          <td colspan="3" align="left" class="head_txt">Sign In </td>
+          </tr>
+          <tr>
+            <td width="89%" align="center" colspan="3" valign="top" class="main_matter">
+				
+				<?php echo $message;?>
+				
+				
+				<form id="frmlogin" name="frmlogin" method="post" action="<?php echo $base ;?>index.php/admin/login">
+					<table width="50%" border="0" class="gallery" cellspacing="5" cellpadding="5">
+						<tr>
+						  <td width="46%" align="right" valign="middle"><label for="userid" > Email Id</label></td>
+						  <td width="54%" align="left" valign="middle">
+							<input type="text" name="userid" id="userid" />
+						  </td>
+						</tr>
+						<tr>
+						  <td align="right" valign="middle"><label for="psw" > Password</label></td>
+						  <td align="left" valign="middle">
+							<input type="password" name="psw" id="psw" />
+						  </td>
+						</tr>
+						<tr>
+						 <td colspan="2"><?php echo validation_errors(); ?></td> 
+						</tr>
+						<tr>
+						  <td align="right" valign="middle">&nbsp;</td>
+						  <td align="left" valign="middle">
+							<input type="submit" name="button" id="button" value="Submit" />
+						  </td>
+						</tr>
+					  </table>
+                 </form>
+				 
+				 
+				 
+            </td>
+          </tr>
+          
+          <tr>
+            <td height="50" colspan="3" align="center" valign="top" >&nbsp;</td>
+          </tr>
